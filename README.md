@@ -1,2 +1,3 @@
 # Data_Visualization
-Matplotlib basics - kal ye repository Udegi,Jai Mata Di, Happy Diwali
+Matplotlib basics 
+As the name suggests, this project helps the user to visualize given data by the help of pycharts, graphs and many more different visual aspects. 
